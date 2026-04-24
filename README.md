@@ -1,8 +1,10 @@
 # Hey, I'm Apoorv
 
-I'm a builder focused on AI systems, multi-agent workflows, and developer tooling.
+I'm a Senior Data Scientist in the Bay Area, building at the intersection of data, AI systems, and workflow automation.
 
-I'm especially interested in agentic engineering systems, evaluation and observability, and AI products that turn LLM capabilities into practical workflows people can actually use.
+I'm especially interested in helping teams move beyond AI demos: integrating LLMs into real data pipelines, evaluating outputs rigorously, and designing agentic systems that are useful, reliable, and production-ready.
+
+I care less about any single tool and more about the ability to integrate AI into real workflows, make sound judgment calls, and ship systems that hold up in production.
 
 ## A few things I've built
 
@@ -13,11 +15,11 @@ I'm especially interested in agentic engineering systems, evaluation and observa
 
 ## I work with
 
-Python · TypeScript · React · Vite · LangGraph · OpenAI APIs · Anthropic APIs · SQL · SwiftUI · AWS · GitHub
+Python · SQL · TypeScript · React · LangGraph · OpenAI APIs · Anthropic APIs · RAG · LLM evals · SwiftUI · AWS · GitHub
 
-## Exploring
+## Focused on
 
-Multi-agent orchestration · LLM evals · AI developer tooling · workflow automation
+Designing and shipping AI systems · AI integration in real data pipelines · Evaluating model outputs in production · RAG · agentic workflows · prompt engineering · context engineering
 
 [![Email](https://img.shields.io/badge/Email-apoorv.shrivastv%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:apoorv.shrivastv@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-apoorv--shrivastav-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/apoorv-shrivastav)
