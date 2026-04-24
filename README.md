@@ -9,7 +9,7 @@ I care less about any single tool and more about the ability to integrate AI int
 ## A few things I've built
 
 - `polycode` — an orchestration layer for AI coding CLIs with enforced plan -> implement -> independent review, policy controls, budget limits, and structured traces
-- A multi-agent workflow platform built with LangGraph that routes work across business and engineering domains with RBAC, human approvals, and execution observability
+- `Multi-Agent Workflow Platform` — Built with LangGraph, routes work across business and engineering domains with RBAC, human approvals, and execution observability
 - `Audience Agent` — a React app that turns natural language campaign requests into SQL and validated contact lists
 - `FORGE` — an AI-powered SwiftUI product for routines, coaching, task execution, and personal performance workflows
 
@@ -19,7 +19,7 @@ Python · SQL · TypeScript · React · LangGraph · OpenAI APIs · Anthropic AP
 
 ## Focused on
 
-Designing and shipping AI systems · AI integration in real data pipelines · Evaluating model outputs in production · RAG · agentic workflows · prompt engineering · context engineering
+Designing and shipping AI systems · AI integration in real data pipelines · Evaluating model outputs in production · RAG · Agentic Workflows · Prompt Engineering · Context Engineering
 
 [![Email](https://img.shields.io/badge/Email-apoorv.shrivastv%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:apoorv.shrivastv@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Apoorv%20Shrivastava-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorv-shrivastava/)
