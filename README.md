@@ -22,4 +22,5 @@ Python · SQL · TypeScript · React · LangGraph · OpenAI APIs · Anthropic AP
 Designing and shipping AI systems · AI integration in real data pipelines · Evaluating model outputs in production · RAG · agentic workflows · prompt engineering · context engineering
 
 [![Email](https://img.shields.io/badge/Email-apoorv.shrivastv%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:apoorv.shrivastv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Apoorv%20Shrivastava-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorv-shrivastava/)
 [![GitHub](https://img.shields.io/badge/GitHub-apoorv--shrivastav-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/apoorv-shrivastav)
