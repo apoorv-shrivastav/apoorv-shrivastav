@@ -8,6 +8,7 @@ I care less about any single tool and more about the ability to integrate AI int
 
 ## A few things I've built
 
+- [`llm-eval`](https://github.com/apoorv-shrivastav/llm-eval) — a Python CLI and library for evaluating LLM outputs in production: YAML eval suites, multi-model comparison, regression detection, and a position-bias-mitigated LLM-as-judge with self-consistency sampling and multi-dimensional rubrics
 - `polycode` — an orchestration layer for AI coding CLIs with enforced plan -> implement -> independent review, policy controls, budget limits, and structured traces
 - `Multi-Agent Workflow Platform` — Built with LangGraph, routes work across business and engineering domains with RBAC, human approvals, and execution observability
 - `Audience Agent` — a React app that turns natural language campaign requests into SQL and validated contact lists
