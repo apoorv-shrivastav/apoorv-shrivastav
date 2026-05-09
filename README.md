@@ -1,5 +1,7 @@
 # Hey, I'm Apoorv
 
+> 🚀 **Currently building [Pramatix](https://agentic-experimentation-platform.vercel.app)** — an agentic experimentation platform for AI features. Multi-agent pipeline (Designer · Analyst · Critic · Communicator), real statistical depth, enterprise governance. **[Try the live demo →](https://agentic-experimentation-platform.vercel.app)**
+
 I'm a Senior Data Scientist in the Bay Area, building at the intersection of data, AI systems, and workflow automation.
 
 I'm especially interested in helping teams move beyond AI demos: integrating LLMs into real data pipelines, evaluating outputs rigorously, and designing agentic systems that are useful, reliable, and production-ready.
@@ -11,7 +13,7 @@ I care less about any single tool and more about the ability to integrate AI int
 - [`llm-eval`](https://github.com/apoorv-shrivastav/llm-eval) — a Python CLI and library for evaluating LLM outputs in production: YAML eval suites, multi-model comparison, regression detection, and a position-bias-mitigated LLM-as-judge with self-consistency sampling and multi-dimensional rubrics
 - [`polycode`](https://github.com/apoorv-shrivastav/polycode) — an orchestration layer for AI coding CLIs with enforced plan -> implement -> independent review, policy controls, budget limits, and structured traces
 - [`Multi-Agent Workflow Platform`](https://github.com/apoorv-shrivastav/multi-agent-project) — Built with LangGraph, routes work across business and engineering domains with RBAC, human approvals, and execution observability
-- `Audience Agent` — a React app that turns natural language campaign requests into SQL and validated contact lists
+- [`agent-station`](https://github.com/apoorv-shrivastav/agent-station) — mission control for AI agents — local-first Agentic Enterprise Platform (gateway · catalog · observability)
 
 ## I work with
 
