@@ -2,7 +2,7 @@
 
 > 🚀 **Currently building [Pramatix](https://agentic-experimentation-platform.vercel.app)** — an agentic experimentation platform for AI features. Multi-agent pipeline (Designer · Analyst · Critic · Communicator), real statistical depth, enterprise governance. **[Try the live demo →](https://agentic-experimentation-platform.vercel.app)**
 
-I'm a Senior Data Scientist in the Bay Area, building at the intersection of data, AI systems, and workflow automation.
+I'm a Senior Data Scientist & AI Engineer in the Bay Area, building at the intersection of data, AI systems, and workflow automation.
 
 I'm especially interested in helping teams move beyond AI demos: integrating LLMs into real data pipelines, evaluating outputs rigorously, and designing agentic systems that are useful, reliable, and production-ready.
 
